@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @Malick-Konate
-- 👀 I’m interested in ... Games
-- 🌱 I’m currently learning ...programming (I'm in computer science)
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hi, I'm Malick 👋
 
-<!---
-Malick-Konate/Malick-Konate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Computer Science student at Champlain Regional College, focused on backend
+systems, microservice architecture, and Domain-Driven Design.
+
+- 🔭 Currently building a microservices-based Pet Clinic system (school project)
+- 🌱 Learning C# alongside my Java/Spring Boot work
+- 💼 Open to software development internships — outside Quebec included
+- 📫 Reach me: malickzie11@gmail.com | [LinkedIn](http://www.linkedin.com/in/malick-konate-853138279)
+
+**Selected projects:**
+- [Adoption Case Management System](https://github.com/Malick-Konate/adoption_System_part2) — 5-microservice platform using Spring Boot, DDD, and aggregate roots
+- [Music Platform Backend](https://github.com/Malick-Konate/country_music_application_microservices) — DDD-based Spring Boot service with 6 bounded contexts
+
+**Tech I work with:**
+`Java` `C#` `Spring Boot` `React` `MySQL` `Docker` `JUnit/Jacoco`
